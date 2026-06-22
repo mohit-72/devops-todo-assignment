@@ -224,17 +224,7 @@ images/acr.png
 
 ## GitHub Repository
 
-> Add screenshot here
-
-```
-images/github.png
-```
-
 ---
-
-# # 🏗 Architecture
-
-![Architecture](images/architecture.png)
 
 ```
                GitHub
