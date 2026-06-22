@@ -269,6 +269,13 @@ JWT_SECRET=********
 
 ![ACR](images/acr.png)
 
+## 🚀 Future Improvements
+
+- Complete CD with Azure Service Principal
+- Automated Infrastructure Provisioning
+- Monitoring & Alerts
+- Unit Tests
+
 
 # 👨‍💻 Author
 
