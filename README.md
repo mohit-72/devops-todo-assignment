@@ -180,46 +180,6 @@ https://todo-api.lemonpond-d9046c26.westus.azurecontainerapps.io/api-docs
 
 ---
 
-# 📷 Screenshots
-
-## Swagger UI
-
-> Add screenshot here
-
-```
-images/swagger.png
-```
-
----
-
-## Azure Container App
-
-> Add screenshot here
-
-```
-images/container-app.png
-```
-
----
-
-## Azure PostgreSQL
-
-> Add screenshot here
-
-```
-images/postgres.png
-```
-
----
-
-## Azure Container Registry
-
-> Add screenshot here
-
-```
-images/acr.png
-```
-
 ---
 
 ## GitHub Repository
