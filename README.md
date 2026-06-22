@@ -291,6 +291,35 @@ JWT_SECRET=********
 
 ---
 
+---
+
+# 📸 Project Screenshots
+
+## 🏗️ Architecture
+
+![Architecture](images/architecture.png)
+
+## 💻 GitHub Repository
+
+![GitHub](images/github.png)
+
+## 📖 Swagger UI
+
+![Swagger](images/swagger.png)
+
+## ☁️ Azure Container App
+
+![Container App](images/container-app.png)
+
+## 🗄️ Azure PostgreSQL
+
+![PostgreSQL](images/postgres.png)
+
+## 📦 Azure Container Registry
+
+![ACR](images/acr.png)
+
+
 # 👨‍💻 Author
 
 **Mohit Yadav**
