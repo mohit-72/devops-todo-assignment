@@ -149,13 +149,13 @@ docker compose up --build
 Application
 
 ```
-https://<YOUR_LIVE_URL>
+https://todo-api.lemonpond-d9046c26.westus.azurecontainerapps.io
 ```
 
 Swagger
 
 ```
-https://<YOUR_LIVE_URL>/api-docs
+https://todo-api.lemonpond-d9046c26.westus.azurecontainerapps.io/api-docs
 ```
 
 ---
