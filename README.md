@@ -232,7 +232,9 @@ images/github.png
 
 ---
 
-# 🏗 Architecture
+# # 🏗 Architecture
+
+![Architecture](images/architecture.png)
 
 ```
                GitHub
